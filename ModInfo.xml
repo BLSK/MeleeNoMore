@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="MeleeNoMore" />
+		<Description value="Removes stats from Melee Weapons for friendly challenge?" />
+		<Author value="BLSK" />
+		<Version value="A20.6.01" />
+	</ModInfo>
+</xml>
